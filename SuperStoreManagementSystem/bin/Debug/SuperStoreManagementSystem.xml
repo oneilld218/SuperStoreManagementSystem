@@ -1,0 +1,456 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SuperStoreManagementSystem
+</name>
+</assembly>
+<members>
+<member name="T:SuperStoreManagementSystem.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:SuperStoreManagementSystem.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:SuperStoreManagementSystem.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:SuperStoreManagementSystem.My.Resources.Resources._1119975">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SuperStoreManagementSystem.My.Resources.Resources._2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SuperStoreManagementSystem.My.Resources.Resources._21">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SuperStoreManagementSystem.My.Resources.Resources._63165186_pattaya_thailand_circa_february_2016_inside_big_c_extra_hypermarket_it_offers_a_wider_range_of_premi">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SuperStoreManagementSystem.My.Resources.Resources._65471975_pattaya_thailand_february_22_2016_inside_of_the_tesco_lotus_hypermarket_in_pattaya_tesco_lotus_is_a_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SuperStoreManagementSystem.My.Resources.Resources.close">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SuperStoreManagementSystem.My.Resources.Resources.closee">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SuperStoreManagementSystem.My.Resources.Resources.e_shopping_keyboard_web_thumb_large">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SuperStoreManagementSystem.My.Resources.Resources.istockphoto_887338108_1024x1024">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SuperStoreManagementSystem.My.Resources.Resources.panasonic_electronics_shop_umesh_enterprises_akurdi_pune_electronic_goods_showrooms_2968owl">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SuperStoreManagementSystem.My.Resources.Resources.promosapiens_blog_battle_on_the_shelves_what_makes_your_brand_recognizable_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SuperStoreManagementSystem.My.Resources.Resources.trolly">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SuperStoreManagementSystem.My.Resources.Resources.trolly1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SuperStoreManagementSystem.My.Resources.Resources.TV_home_appliances">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet.Customer_TableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet.Employee_TableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet.DataTable1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet.Customer_TableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet.Employee_TableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet.DataTable1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet.Customer_TableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet.Employee_TableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet.DataTable1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSetTableAdapters.Customer_TableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSetTableAdapters.Employee_TableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSetTableAdapters.DataTable1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SuperStoreManagementSystem.SuperStoreManagementSystemDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SuperStoreManagementSystem.SuperStoreManagementSystemDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SuperStoreManagementSystem.SuperStoreManagementSystemDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SuperStoreManagementSystem.SuperStoreManagementSystemDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SuperStoreManagementSystem.SuperStoreManagementSystemDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SuperStoreManagementSystem.SuperStoreManagementSystemDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SuperStoreManagementSystem.SuperStoreManagementSystemDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SuperStoreManagementSystem.SuperStoreManagementSystemDataSetTableAdapters.TableAdapterManager.UpdateAll(SuperStoreManagementSystem.SuperStoreManagementSystemDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet1.Customer_TableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet1.Customer_TableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet1.Customer_TableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet1TableAdapters.Customer_TableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(SuperStoreManagementSystem.SuperStoreManagementSystemDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(SuperStoreManagementSystem.SuperStoreManagementSystemDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(SuperStoreManagementSystem.SuperStoreManagementSystemDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet1TableAdapters.TableAdapterManager.UpdateAll(SuperStoreManagementSystem.SuperStoreManagementSystemDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet2">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet2.Employee_TableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet2.Employee_TableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet2.Employee_TableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet2TableAdapters.Employee_TableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet2TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(SuperStoreManagementSystem.SuperStoreManagementSystemDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(SuperStoreManagementSystem.SuperStoreManagementSystemDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(SuperStoreManagementSystem.SuperStoreManagementSystemDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet2TableAdapters.TableAdapterManager.UpdateAll(SuperStoreManagementSystem.SuperStoreManagementSystemDataSet2)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet3">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet3.AddItems_TableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet3.Customer_TableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet3.Employee_TableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet3.Place_Order_TableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet3.AddItems_TableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet3.Customer_TableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet3.Employee_TableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet3.Place_Order_TableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet3.AddItems_TableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet3.Customer_TableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet3.Employee_TableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet3.Place_Order_TableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet3TableAdapters.AddItems_TableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet3TableAdapters.Customer_TableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet3TableAdapters.Employee_TableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet3TableAdapters.Place_Order_TableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet3TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(SuperStoreManagementSystem.SuperStoreManagementSystemDataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(SuperStoreManagementSystem.SuperStoreManagementSystemDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(SuperStoreManagementSystem.SuperStoreManagementSystemDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet3TableAdapters.TableAdapterManager.UpdateAll(SuperStoreManagementSystem.SuperStoreManagementSystemDataSet3)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SuperStoreManagementSystem.SuperStoreManagementSystemDataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
